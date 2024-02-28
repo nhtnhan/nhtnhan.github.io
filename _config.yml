@@ -1,7 +1,5 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
-baseurl: ""
-url: https://piazzai.github.io/cvless
+title: "cvless"
+description: "Jekyll theme for a beautiful online CV"
 
 theme: cvless
 
