@@ -1,28 +1,23 @@
 title: Nhan Nguyen
-description: I am a software developer at LawDepot. I 
+description: I am a software developer at LawDepot. I
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://nhtnhan.me/
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Nhan Nguyen
+tagshort: Nhan Nguyen
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Nhan Nguyen
+  email: nhtnhan@hotmail.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: Edmonton
 
 # social media links
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  x: username
+  github: nhtnhan
+  linkedin: nhthiennhan
 
 # build settings
 permalink: pretty
