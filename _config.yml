@@ -1,18 +1,18 @@
 title: Nhan Nguyen
-description: Software Developer | Co-founder Trigger Tracker | BSc '22
+description: ""
 baseurl: ""
 url: https://nhtnhan.me/
 
 # site settings
-taglong: long
-tagshort: Software Developer | Co-founder Trigger Tracker | BSc '22
+taglong: Software Developer | Co-founder Trigger Tracker | Judoka
+tagshort: Software Developer
 
 # author settings
 author:
   name: Nhan Nguyen
   email: nhtnhan@hotmail.com
 photo: assets/files/photo.jpg
-address: Edmonton
+address: Edmonton, Canada
 
 # social media links
 social:
