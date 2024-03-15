@@ -4,15 +4,10 @@ title: Home
 ---
 
 # About
+I am a Software Developer at [LawDepot](https://lawdepot.com/) where I worked with scrum teams to build modern products that help over 10 million users in 11 countries worldwide with accessible and affordable legal services. In this role, I lead by example, influence decision-making, effectively handle conflict, and be a champion for engineering best practices for well-tested, scalable, and well-organized code. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I co-founded [Trigger Tracker](https://triggertracker.tech/) where we are revolutionizing the management of diet-restricting conditions such as IBD/IBS, Celiac, and food intolerances with a smart food diary app powered by Artificial Intelligence to warn users of potential trigger ingredients in their meal before they eat it! I’m currently in charge of designing and developing the product.
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+Outside of work, I would do Judo, Brazilian jiu-jitsu, boxing, and bouldering. 
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
-
-{% include archive.html %}
+For more info on my experience, please check my [cv](cv).
