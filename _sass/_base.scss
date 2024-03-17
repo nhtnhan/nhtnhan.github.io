@@ -74,21 +74,17 @@ table.table {
   border-color: transparent;
 }
 
-th.time {
+table.table th.time {
   text-align: right;
   font-weight: 300;
   font-style: normal;
 }
 
-th.location {
+table.table th.location {
   font-weight: 300;
   font-style: normal;
 }
 
-tbody, td, tfoot, th, thead, tr {
-  border-style: none;
-}
-
-.table>:not(caption)>*>* {
+table.table>:not(caption)>*>* {
   padding: 0 0;
 }
