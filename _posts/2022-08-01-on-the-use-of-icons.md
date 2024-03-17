@@ -8,21 +8,20 @@ The icons used throughout this theme are partly custom-made, and partly come fro
 
 Here's an overview of icons that already ship with the theme.
 
-<table>
+<table class="table">
   <thead>
     <tr>
       <th>Category</th>
-      <th>Icons</th>
+      <th class="left">Icons</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Navigation</td>
-      <td>{% include svg/arrow-left-circled.svg %} {% include svg/arrow-right-circled.svg %} {% include svg/nav-arrow-left.svg %} {% include svg/nav-arrow-right.svg %} {% include svg/nav-arrow-down.svg %}</td>
+      <td class="left">{% include svg/arrow-left-circled.svg %} {% include svg/arrow-right-circled.svg %} {% include svg/nav-arrow-left.svg %} {% include svg/nav-arrow-right.svg %} {% include svg/nav-arrow-down.svg %}</td>
     </tr>
     <tr>
-      <td>Actions</td>
-      <td>{% include svg/download-circled-outline.svg %} {% include svg/download-square-outline.svg %} {% include svg/open-in-browser.svg %} {% include svg/open-in-window.svg %} {% include svg/open-new-window.svg %}</td>
+      <td>Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions</td>
     </tr>
     <tr>
       <td>Communication</td>
