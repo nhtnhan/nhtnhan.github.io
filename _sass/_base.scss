@@ -74,6 +74,12 @@ table.table {
   border-color: transparent;
 }
 
-th.right, td.right {
+th.time {
   text-align: right;
+  font-weight: 300;
+  font-style: normal;
+}
+
+tbody, td, tfoot, th, thead, tr {
+  border-style: none;
 }

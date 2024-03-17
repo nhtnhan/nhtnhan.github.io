@@ -11,56 +11,34 @@ Here's an overview of icons that already ship with the theme.
 <table class="table">
   <thead>
     <tr>
-      <th>Category</th>
-      <th class="left">Icons</th>
+      <th>Software Developer II</th>
+      <th class="time">07/2021 - Present</th>
+    </tr>
+    <tr>
+      <th colspan="2">Software Developer II</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>Navigation</td>
-      <td class="left">{% include svg/arrow-left-circled.svg %} {% include svg/arrow-right-circled.svg %} {% include svg/nav-arrow-left.svg %} {% include svg/nav-arrow-right.svg %} {% include svg/nav-arrow-down.svg %}</td>
-    </tr>
-    <tr>
-      <td>Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions Actions</td>
-    </tr>
-    <tr>
-      <td>Communication</td>
-      <td>{% include svg/phone.svg %} {% include svg/mail.svg %} {% include svg/internet.svg %} {% include svg/send-mail-circled.svg %}</td>
-    </tr>
-    <tr>
-      <td>Maps</td>
-      <td>{% include svg/pin-alt.svg %}</td>
-    </tr>
-    <tr>
-      <td>Social</td>
-      <td>{% include svg/facebook.svg %} {% include svg/twitter.svg %} {% include svg/instagram.svg %} {% include svg/linkedin.svg %} {% include svg/stackoverflow.svg %} {% include svg/google-circled.svg %}</td>
-    </tr>
-    <tr>
-      <td>Git</td>
-      <td>{% include svg/github.svg %} {% include svg/github-outline.svg %}</td>
-    </tr>
-    <tr>
-      <td>Security</td>
-      <td>{% include svg/key-alt-circled.svg %}</td>
-    </tr>
-    <tr>
-      <td>Users</td>
-      <td>{% include svg/user-circle-alt.svg %}</td>
-    </tr>
-    <tr>
-      <td>CV</td>
-      <td>{% include svg/cv-circled.svg %}</td>
-    </tr>
-    <tr>
-      <td>Academic</td>
-      <td>{% include svg/orcid.svg %} {% include svg/clarivate-circled.svg %} {% include svg/scopus-circled.svg %}</td>
-    </tr>
-    <tr>
-      <td>Chess</td>
-      <td>{% include svg/lichess-circled.svg %}</td>
-    </tr>
-  </tbody>
 </table>
+- Ut enim ad minim veniam
+- Quis nostrud exercitation
+- Ullamco laboris nisi
+- Ut aliquip ex ea commodo consequat
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Software Developer II</th>
+      <th class="time">07/2021 - Present</th>
+    </tr>
+    <tr>
+      <th colspan="2">Software Developer II</th>
+    </tr>
+  </thead>
+</table>
+- Ut enim ad minim veniam
+- Quis nostrud exercitation
+- Ullamco laboris nisi
+- Ut aliquip ex ea commodo consequat
 
 They can be used in two ways through Liquid tags. First, as simple glyphs for decorative purposes, as in the table above or in the [contact](/cv) section of the CV:
 
