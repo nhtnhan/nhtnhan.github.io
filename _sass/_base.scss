@@ -80,6 +80,15 @@ th.time {
   font-style: normal;
 }
 
+th.location {
+  font-weight: 300;
+  font-style: normal;
+}
+
 tbody, td, tfoot, th, thead, tr {
   border-style: none;
+}
+
+.table>:not(caption)>*>* {
+  padding: 0 0;
 }

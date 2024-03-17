@@ -31,7 +31,7 @@ Here's an overview of icons that already ship with the theme.
       <th class="time">07/2021 - Present</th>
     </tr>
     <tr>
-      <th colspan="2">Software Developer II</th>
+      <th colspan="2" class="location">LawDepot</th>
     </tr>
   </thead>
 </table>
