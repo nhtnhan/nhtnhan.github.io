@@ -8,7 +8,7 @@ The icons used throughout this theme are partly custom-made, and partly come fro
 
 Here's an overview of icons that already ship with the theme.
 
-<table class="table">
+<table>
   <thead>
     <tr>
       <th>Category</th>
@@ -81,15 +81,15 @@ Simple CSS allows you to modify many aspects of the icon's appearance, including
 
 {% highlight css %}
 svg {
-  /* 250% of its original size */
-  transform: scale(2.5);
-  }
+/_ 250% of its original size _/
+transform: scale(2.5);
+}
 svg path {
-    /* red color */
-    stroke: red;
-    /* thinner line */
-    stroke-width: 1.25;
-  }
+/_ red color _/
+stroke: red;
+/_ thinner line _/
+stroke-width: 1.25;
+}
 {% endhighlight %}
 
 ## Note
