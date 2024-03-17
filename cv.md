@@ -9,37 +9,85 @@ title: CV
 
 ## WORK EXPERIENCE
 
-### Software Developer II | LawDepot | 07/2021 - Present
+<table class="table">
+  <thead>
+    <tr>
+      <th>Software Developer II</th>
+      <th class="time">02/2022 - Present</th>
+    </tr>
+    <tr>
+      <th colspan="2" class="location">LawDepot</th>
+    </tr>
+  </thead>
+</table>
+- Spearheaded the development of a robust block editor and electronic signature application using Vue.js, contributing to a more dynamic and user-friendly content editing and creation experience.
+- Implemented and maintained RESTful APIs in C# and ASP.NET, contributing to the seamless integration of front-end and back-end systems.
+- Ensured software quality and reliability with automated tests and streamlined CI/CD workflow using Azure Devops, Vitest, Selenium, and Cypress.
+- Played a pivotal role in an agile development team, collaborating closely with cross-functional team members (designers, product owners, and other stakeholders) to deliver high-quality code and meet project milestones efficiently.
+- Actively participated in sprint planning, retrospectives, and daily stand-ups, fostering a collaborative and adaptive work environment.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Ut enim ad minim veniam
-- Quis nostrud exercitation
-- Ullamco laboris nisi
-- Ut aliquip ex ea commodo consequat
-
-### Chief Technology Officer | Trigger Tracker Technologies Inc. | 07/2021 - Present
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Ut enim ad minim veniam
-- Quis nostrud exercitation
-- Ullamco laboris nisi
-- Ut aliquip ex ea commodo consequat
-
-### Research Assistant | The Intelligent Robot Learning Laboratory | 07/2021 - Present
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Ut enim ad minim veniam
-- Quis nostrud exercitation
-- Ullamco laboris nisi
-- Ut aliquip ex ea commodo consequat
+<table class="table">
+  <thead>
+    <tr>
+      <th>Chief Technology Officer</th>
+      <th class="time">06/2022 - Present</th>
+    </tr>
+    <tr>
+      <th colspan="2" class="location">Trigger Tracker Technologies Inc.</th>
+    </tr>
+  </thead>
+</table>
+- Develop and implement a comprehensive technology strategy aligned with the company's overall goals and objectives.
+- Develop a cross-platform mobile application that serves our customers using Flutter. 
+- Develop back-end APIs and database that directly serve the mobile apps and CI/CD pipeline using Supabase.
+- Stay abreast of emerging technologies that could be leveraged to enhance the company's competitive edge.
+- Set clear expectations and provide strategic direction to the engineering team.
+- Balance the commercials goals of the company against the needs of the Product.
+- Oversee the end-to-end product development lifecycle, from ideation to implementation, that moves the needle in our product vision.
+- Collaborate with cross-functional teams to ensure the successful delivery of new product features and internal systems to users and stakeholders.
+- Ensure the reliability, security, and scalability of our technical infrastructure.
+- Communicate effectively with non-technical stakeholders and team members, translating complex technical concepts into understandable terms.
+<table class="table">
+  <thead>
+    <tr>
+      <th>Research Assistant</th>
+      <th class="time">05/2021 - 02/2022</th>
+    </tr>
+    <tr>
+      <th colspan="2" class="location">The Intelligent Robot Learning Laboratory</th>
+    </tr>
+  </thead>
+</table>
+- Assisted on the development of SoundHunters Project to personalize learning of Cree Sounds with User Modelling and Reinforcement Learning.
+- Upgraded an existing web application using Django, and Pixi.JS. 
+- Deployed the web application with Docker and uWSGI. 
+- Created and maintain documentation on deployment, testing, and source code. 
+- Coordinate with professors, team leads, and fellow interns to successfully deliver all requirements and beyond.
 
 ## EDUCATION & QUALIFICATION
 
-- BSc Computing Science (University of Alberta, September 2017-December 2021)
-- Professional Scrum Master™ I (Scrum.org, April 2023)
+<table class="table">
+  <thead>
+    <tr>
+      <th>BSc Computing Science</th>
+      <th class="time">09/2017 - 12/2021</th>
+    </tr>
+    <tr>
+      <th colspan="2" class="location">University of Alberta</th>
+    </tr>
+  </thead>
+</table>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Professional Scrum Master™ I</th>
+      <th class="time">04/2023</th>
+    </tr>
+    <tr>
+      <th colspan="2" class="location">Scrum.org</th>
+    </tr>
+  </thead>
+</table>
 
 ## TECHNICAL SKILLS
 
