@@ -20,11 +20,10 @@ title: CV
     </tr>
   </thead>
 </table>
-- Spearheaded the development of a robust block editor and electronic signature application using Vue.js, contributing to a more dynamic and user-friendly content editing and creation experience.
-- Implemented and maintained RESTful APIs in C# and ASP.NET, contributing to the seamless integration of front-end and back-end systems.
-- Ensured software quality and reliability with automated tests and streamlined CI/CD workflow using Azure Devops, Vitest, Selenium, and Cypress.
-- Played a pivotal role in an agile development team, collaborating closely with cross-functional team members (designers, product owners, and other stakeholders) to deliver high-quality code and meet project milestones efficiently.
-- Actively participated in sprint planning, retrospectives, and daily stand-ups, fostering a collaborative and adaptive work environment.
+- Develop a robust block editor and electronic signature application using Vue.js.
+- Develop RESTful APIs in C# and ASP.NET, contributing to the seamless integration of front-end and back-end systems.
+- Ensure software quality and reliability with automated tests and streamlined CI/CD workflow using Azure Devops, Vitest, Selenium, and Cypress.
+- Lead a pivotal role in an agile development team, collaborating closely with cross-functional team members (designers, product owners, and other stakeholders) to deliver high-quality code and meet project milestones efficiently.
 
 <table class="table">
   <thead>
@@ -47,6 +46,7 @@ title: CV
 - Collaborate with cross-functional teams to ensure the successful delivery of new product features and internal systems to users and stakeholders.
 - Ensure the reliability, security, and scalability of our technical infrastructure.
 - Communicate effectively with non-technical stakeholders and team members, translating complex technical concepts into understandable terms.
+
 <table class="table">
   <thead>
     <tr>
@@ -58,10 +58,10 @@ title: CV
     </tr>
   </thead>
 </table>
-- Assisted on the development of SoundHunters Project to personalize learning of Cree Sounds with User Modelling and Reinforcement Learning.
-- Upgraded an existing web application using Django, and Pixi.JS. 
-- Deployed the web application with Docker and uWSGI. 
-- Created and maintain documentation on deployment, testing, and source code. 
+- Assist on the development of SoundHunters Project to personalize learning of Cree Sounds with User Modelling and Reinforcement Learning.
+- Develop an online form application to support custom user research flow using Django, SQL and Javascript. 
+- Deploy the web application with Docker and uWSGI. 
+- Create and maintain documentation on deployment, testing, and source code. 
 - Coordinate with professors, team leads, and fellow interns to successfully deliver all requirements and beyond.
 
 ## EDUCATION & QUALIFICATION
