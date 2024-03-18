@@ -75,6 +75,14 @@
       margin: 0;
     }
 
+    .row {
+      display: none;
+    }
+
+    .row > .col {
+      width: 100%;
+    }
+
     .site-title {
       font-size: 1.5em;
       margin-left: 5px;
