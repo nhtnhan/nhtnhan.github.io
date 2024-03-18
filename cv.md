@@ -39,8 +39,6 @@ title: CV
 - Develop and implement a comprehensive technology strategy aligned with the company's overall goals and objectives.
 - Develop a cross-platform mobile application that serves our customers using Flutter. 
 - Develop back-end APIs and database that directly serve the mobile apps and CI/CD pipeline using Supabase.
-- Stay abreast of emerging technologies that could be leveraged to enhance the company's competitive edge.
-- Set clear expectations and provide strategic direction to the engineering team.
 - Balance the commercials goals of the company against the needs of the Product.
 - Oversee the end-to-end product development lifecycle, from ideation to implementation, that moves the needle in our product vision.
 - Collaborate with cross-functional teams to ensure the successful delivery of new product features and internal systems to users and stakeholders.
@@ -59,9 +57,7 @@ title: CV
   </thead>
 </table>
 - Assist on the development of SoundHunters Project to personalize learning of Cree Sounds with User Modelling and Reinforcement Learning.
-- Develop an online form application to support custom user research flow using Django, SQL and Javascript. 
-- Deploy the web application with Docker and uWSGI. 
-- Create and maintain documentation on deployment, testing, and source code. 
+- Develop an online form application to support custom user research flow using Django, SQL, Javascript, Docker and uWSGI. 
 - Coordinate with professors, team leads, and fellow interns to successfully deliver all requirements and beyond.
 
 ## EDUCATION & QUALIFICATION
@@ -105,7 +101,6 @@ title: CV
 ## HOBBIES
 
 - Train, mentor, volunteer, and compete in Judo at University of Alberta's Judo Club.
-- Practice Brazillian jiu-jitsu at Method BJJ.
 - Boulder at local climbing gyms.
 - Run Half Marathon and Army 10K at Servus Edmonton Marathon.
 - Cook and eat good food (pho, ramen, bun bo hue, banh mi, shawarma, dimsum, bubble tea etc)
